@@ -1,0 +1,29 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "this example app is so cool.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "jane-doe",
+  "license": "(BSD-2-Clause)Mit",
+  "bugs": {
+    "url": "https://github.com/jane-doe/node-example/issues"
+  },
+  "homepage": "https://github.com/jane-doe/node-example",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.4.8",
+    "pg": "^2.11.1",
+    "ws": "^0.4.31"
+  }
+}
